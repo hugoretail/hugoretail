@@ -1,14 +1,14 @@
 ### 👋 About me
 
-Aspiring AI developer and NLP specialist.
+Aspiring AI developer and NLP specialist. <br>
 Street Artist from Bordeaux.
 
 ### 🛠️ Skills & Technologies
 
-Database <br>
-Project management <br>
-Object-oriented programming <br>
-Programming languages : C, Java, HTML/CSS, PHP, ... <br>
+* Database 
+* Project management
+* Object-oriented programming
+* Programming languages : C, Java, HTML/CSS, PHP, ... <br>
 Full detail here : [My Portfolio](https://hugoretail.github.io/Portfolio/index.html)
 
 ### 🌱 Currently Learning
@@ -19,9 +19,9 @@ Full detail here : [My Portfolio](https://hugoretail.github.io/Portfolio/index.h
 
 ### 📈 Interests
 
-IA oriented projects. <br>
-Hip Hop Culture. <br>
-Speedruns. <br>
+* IA oriented projects. <br>
+* Hip Hop Culture. <br>
+* Speedruns. <br>
 
 ### 🚀 Projects
 
