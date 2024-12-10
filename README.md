@@ -31,8 +31,8 @@ Full detail here : [My Portfolio](https://hugoretail.github.io/Portfolio/index.h
 
 ### 📊 Github Stats
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TonPseudoGitHub&theme=radical)](https://git.io/streak-stats)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoretail&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hugoretail&theme=radical)](https://git.io/streak-stats)
 
 
 ### 🤝 Connect With Me
