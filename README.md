@@ -29,7 +29,15 @@ Full detail here : [My Portfolio](https://hugoretail.github.io/Portfolio/index.h
 * [Anhydralgo](https://github.com/khalidOuhmid/anhydralgo)
 * See more on [My Portfolio](https://hugoretail.github.io/Portfolio/index.html)
 
-### 📫 How to Reach Me
+### 📊 Github Stats
 
-* hugo.retail@hotmail.com
-* [Linkedin](https://www.linkedin.com/in/hugo-retail-4036062a0/)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TonPseudoGitHub&theme=radical)](https://git.io/streak-stats)
+
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hugo-retail-4036062a0/)
+[![Email](https://img.shields.io/badge/Email-hugo.retail@hotmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:hugo.retail@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=html5&logoColor=white)](https://hugoretail.github.io/Portfolio/index.html)
+
