@@ -1,4 +1,4 @@
-### 👋 About me
+### 👋 About me 
 
 Aspiring AI developer and NLP specialist. <br>
 Street Artist from Bordeaux.
