@@ -1,3 +1,5 @@
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hugo-retail" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/hugo-retail?trk=profile-badge">Hugo Retail</a></div>
+
 ### 👋 About me 
 
 Aspiring AI developer and NLP specialist. <br>
@@ -40,4 +42,6 @@ Full detail here : [My Portfolio](https://hugoretail.github.io/Portfolio/index.h
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hugo-retail-4036062a0/)
 [![Email](https://img.shields.io/badge/Email-hugo.retail@hotmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:hugo.retail@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=html5&logoColor=white)](https://hugoretail.github.io/Portfolio/index.html)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
