@@ -1,43 +1,63 @@
-### 👋 About me 
+# 👋 About Me  
 
-Aspiring AI developer and NLP specialist. <br>
-Street Artist from Bordeaux.
+🎯 **Aspiring AI Developer** & **NLP Specialist**  
+🎨 **Street Artist** from Bordeaux  
 
-### 🛠️ Skills & Technologies
+---
 
-* Database 
-* Project management
-* Object-oriented programming
-* Programming languages : C, Java, HTML/CSS, PHP, ... <br>
-Full detail here : [My Portfolio](https://hugoretail.github.io/Portfolio/index.html)
+## 🛠️ Skills & Technologies  
 
-### 🌱 Currently Learning
+**Languages & Tools**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-* Fundamentals of AI. <br>
-* Machine learning methods. <br>
-* React Library <br>
+**Database & Project Management**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-### 📈 Interests
+**Programming Concepts**  
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-Important-green?style=for-the-badge)
 
-* IA oriented projects. <br>
-* Hip Hop Culture. <br>
-* Speedruns. <br>
+---
 
-### 🚀 Projects
+## 🌱 Currently Learning  
 
-* [Japanese Conjugator](https://hugoretail.github.io/Japanese-Conjugator/)
-* [Anhydralgo](https://github.com/khalidOuhmid/anhydralgo)
-* See more on [My Portfolio](https://hugoretail.github.io/Portfolio/index.html)
+🚀 Fundamentals of AI  
+🚀 Machine Learning Methods  
+🚀 React Library  
 
-### 📊 Github Stats
+---
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoretail&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hugoretail&theme=radical)](https://git.io/streak-stats)
+## 📈 Interests  
 
+💻 **AI Projects**  
+🎧 **Hip-Hop Culture**  
+🏃 **Speedruns**  
 
-### 🤝 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hugo-retail-4036062a0/)
-[![Email](https://img.shields.io/badge/Email-hugo.retail@hotmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:hugo.retail@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=html5&logoColor=white)](https://hugoretail.github.io/Portfolio/index.html)
+## 🚀 Featured Projects  
 
+🔗 [**Japanese Conjugator**](https://hugoretail.github.io/Japanese-Conjugator/)  
+🔗 [**Anhydralgo**](https://github.com/khalidOuhmid/anhydralgo)  
+🔗 See more on [**My Portfolio**](https://hugoretail.github.io/Portfolio/index.html)
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugoretail&show_icons=true&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hugoretail&theme=radical)](https://git.io/streak-stats)  
+
+---
+
+## 🤝 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-retail-4036062a0/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.retail@hotmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://hugoretail.github.io/Portfolio/index.html)
+
+---
